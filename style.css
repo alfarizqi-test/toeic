@@ -1,0 +1,98 @@
+/* style.css - Premium modern design for TOEIC quiz */
+/* Reset & base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html, body {
+  min-height: 100vh;
+  font-family: 'Inter', sans-serif;
+  background: linear-gradient(135deg, hsl(210, 30%, 12%), hsl(260, 30%, 18%));
+  background-attachment: fixed;
+  color: hsl(0, 0%, 90%);
+}
+.container {
+  width: 90vw;
+  max-width: 960px;
+  margin: 2rem auto;
+  background: rgba(255,255,255,0.08);
+  backdrop-filter: blur(12px);
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 4px 30px rgba(0,0,0,0.5);
+}
+h1 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+  font-size: 2rem;
+  color: hsl(210, 80%, 70%);
+}
+.questions {
+  display: grid;
+  gap: 1.5rem;
+}
+.question-card {
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 8px;
+  padding: 1rem;
+}
+.question-header {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+.option-label {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 0.6rem;
+  border-radius: 4px;
+  transition: background 0.2s ease;
+}
+.option-label:hover {
+  background: rgba(255,255,255,0.08);
+}
+input[type="radio"] {
+  accent-color: hsl(210, 80%, 60%);
+}
+.btn {
+  display: block;
+  width: 12rem;
+  margin: 2rem auto 0;
+  padding: 0.6rem 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #fff;
+  background: hsl(210, 70%, 55%);
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.1s ease;
+}
+.btn:hover {
+  background: hsl(210, 70%, 60%);
+}
+.btn:active {
+  transform: translateY(1px);
+}
+.result {
+  margin-top: 1.5rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: hsl(120, 70%, 60%);
+}
+.hidden { display: none; }
+/* Responsive */
+@media (max-width: 600px) {
+  .container { padding: 1rem; }
+  .btn { width: 100%; }
+}

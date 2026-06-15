@@ -1,0 +1,1074 @@
+[
+  {
+    "id": "d00",
+    "type": "direction",
+    "audio": ""
+  },
+  {
+    "id": "d01",
+    "type": "direction",
+    "audio": ""
+  },
+  {
+    "id": "d1",
+    "type": "direction",
+    "audio": "../assets/audio/direction1.mp3"
+  },
+  {
+    "id": "q1",
+    "type": "listening",
+    "image": "../assets/image/1.png",
+    "question": "1.",
+    "options": ["A)", "B)", "C)", "D)"],
+    "audio": "../assets/audio/1.mp3"
+  },
+  {
+    "id": "q2",
+    "type": "listening",
+    "image": "../assets/image/2.png",
+    "question": "2.",
+    "options": ["A)", "B)", "C)", "D)"],
+    "audio": "../assets/audio/2.mp3"
+  },
+  {
+    "id": "q3",
+    "type": "listening",
+    "image": "../assets/image/3.png",
+    "question": "3.",
+    "options": ["A)", "B)", "C)", "D)"],
+    "audio": "../assets/audio/3.mp3"
+  },
+  {
+    "id": "d2",
+    "type": "direction",
+    "audio": "../assets/audio/direction2.mp3"
+  },
+  {
+    "id": "q4",
+    "type": "listening",
+    "question": "4.",
+    "options": ["A)", "B)", "C)"],
+    "audio": "../assets/audio/4.mp3"
+  },
+  {
+    "id": "q5",
+    "type": "listening",
+    "question": "5.",
+    "options": ["A)", "B)", "C)"],
+    "audio": "../assets/audio/5.mp3"
+  },
+  {
+    "id": "q6",
+    "type": "listening",
+    "question": "6.",
+    "options": ["A)", "B)", "C)"],
+    "audio": "../assets/audio/6.mp3"
+  },
+  {
+    "id": "q7",
+    "type": "listening",
+    "question": "7.",
+    "options": ["A)", "B)", "C)"],
+    "audio": "../assets/audio/7.mp3"
+  },
+  {
+    "id": "q8",
+    "type": "listening",
+    "question": "8.",
+    "options": ["A)", "B)", "C)"],
+    "audio": "../assets/audio/8.mp3"
+  },
+  {
+    "id": "q9",
+    "type": "listening",
+    "question": "9.",
+    "options": ["A)", "B)", "C)"],
+    "audio": "../assets/audio/9.mp3"
+  },
+  {
+    "id": "q10",
+    "type": "listening",
+    "question": "10.",
+    "options": ["A)", "B)", "C)"],
+    "audio": "../assets/audio/10.mp3"
+  },
+  {
+    "id": "q11",
+    "type": "listening",
+    "question": "11.",
+    "options": ["A)", "B)", "C)"],
+    "audio": "../assets/audio/11.mp3"
+  },
+  {
+    "id": "q12",
+    "type": "listening",
+    "question": "12.",
+    "options": ["A)", "B)", "C)"],
+    "audio": "../assets/audio/12.mp3"
+  },
+  {
+    "id": "q13",
+    "type": "listening",
+    "question": "13.",
+    "options": ["A)", "B)", "C)"],
+    "audio": "../assets/audio/13.mp3"
+  },
+  {
+    "id": "q14",
+    "type": "listening",
+    "question": "14.",
+    "options": ["A)", "B)", "C)"],
+    "audio": "../assets/audio/14.mp3"
+  },
+  {
+    "id": "q15",
+    "type": "listening",
+    "question": "15.",
+    "options": ["A)", "B)", "C)"],
+    "audio": "../assets/audio/15.mp3"
+  },
+  {
+    "id": "q16",
+    "type": "listening",
+    "question": "16.",
+    "options": ["A)", "B)", "C)"],
+    "audio": "../assets/audio/16.mp3"
+  },
+  {
+    "id": "q17",
+    "type": "listening",
+    "question": "17.",
+    "options": ["A)", "B)", "C)"],
+    "audio": "../assets/audio/17.mp3"
+  },
+  {
+    "id": "d3",
+    "type": "direction",
+    "audio": "../assets/audio/direction3.mp3"
+  },
+  {
+    "id": "q18",
+    "type": "listening",
+    "question": "18. What are the speakers discussing?",
+    "options": [
+      "A) A spiced mix",
+      "B) A can of drink",
+      "C) A beverage",
+      "D) A ginger root"
+    ],
+    "audio": "../assets/audio/18.mp3"
+  },
+  {
+    "id": "q19",
+    "type": "listening",
+    "question": "19. What does the woman ask about?",
+    "options": [
+      "A) The spices",
+      "B) The delivery",
+      "C) The bags",
+      "D) The variety"
+    ],
+    "audio": "../assets/audio/19.mp3"
+  },
+  {
+    "id": "q20",
+    "type": "listening",
+    "question": "20. What will the woman most likely do next?",
+    "options": [
+      "A) Drink hot chocolate.",
+      "B) Write her address.",
+      "C) Deliver the purchase.",
+      "D) Pick her ginger drink."
+    ],
+    "audio": "../assets/audio/20.mp3"
+  },
+  {
+    "id": "q21",
+    "type": "listening",
+    "question": "21. What does the woman ask the man to do?",
+    "options": [
+      "A) Call a business partner.",
+      "B) Substitute for a coworker.",
+      "C) Arrive at work on time.",
+      "D) Drive her home."
+    ],
+    "audio": "../assets/audio/21.mp3"
+  },
+  {
+    "id": "q22",
+    "type": "listening",
+    "question": "22. What does the man say he needs?",
+    "options": [
+      "A) Directions to the airport",
+      "B) A valid driver’s license",
+      "C) Estimated time of arrival",
+      "D) Ms. Santoro’s phone number"
+    ],
+    "audio": "../assets/audio/22.mp3"
+  },
+  {
+    "id": "q23",
+    "type": "listening",
+    "question": "23. What will the man probably do next?",
+    "options": [
+      "A) Drive to the airport.",
+      "B) Ask the woman to guide.",
+      "C) Exit the Express way.",
+      "D) Call their driver."
+    ],
+    "audio": "../assets/audio/23.mp3"
+  },
+  {
+    "id": "q24",
+    "type": "listening",
+    "question": "24. Where do the speakers most likely work?",
+    "options": [
+      "A) At a law office",
+      "B) At a bank",
+      "C) At an advertising agency",
+      "D) At a restaurant"
+    ],
+    "audio": "../assets/audio/24.mp3"
+  },
+  {
+    "id": "q25",
+    "type": "listening",
+    "question": "25. What does the man mean when he says, “ … you have a good eye for Gen Z’s style… ”?",
+    "options": [
+      "A) The woman specifically designs for the youth.",
+      "B) The woman has very beautiful eyes.",
+      "C) The woman can advertise Marco’s restaurant chains.",
+      "D) The woman is naturally good at recognizing their taste."
+    ],
+    "audio": "../assets/audio/25.mp3"
+  },
+  {
+    "id": "q26",
+    "type": "listening",
+    "question": "26. What does the man propose?",
+    "options": [
+      "A) Talking with the woman’s supervisor",
+      "B) Meeting with the restaurant owner",
+      "C) Designing Shanti’s Kitchen menu",
+      "D) Dining in a Mexican restaurant"
+    ],
+    "audio": "../assets/audio/26.mp3"
+  },
+  {
+    "id": "q27",
+    "type": "listening",
+    "question": "27. What type of event are the speakers discussing?",
+    "options": [
+      "A) A cultural festival",
+      "B) A photo exhibition",
+      "C) A sport match",
+      "D) A musical play"
+    ],
+    "audio": "../assets/audio/27.mp3",
+    "image_three_question_1": "../assets/image/27.png"
+  },
+  {
+    "id": "q28",
+    "type": "listening",
+    "image": "../assets/image/28.png",
+    "question": "28. Look at the graphic. What ticket price will the speakers and their colleagues probably pay?",
+    "options": ["A) $20.00", "B) $22.50", "C) $15.00", "D) $25.00"],
+    "audio": "../assets/audio/28.mp3",
+    "image_three_question_1": "../assets/image/27.png"
+  },
+  {
+    "id": "q29",
+    "type": "listening",
+    "question": "29. What will the woman do next?",
+    "options": [
+      "A) Call a colleague.",
+      "B) Buy the tickets.",
+      "C) Join the group.",
+      "D) Prepare a flyer."
+    ],
+    "audio": "../assets/audio/29.mp3",
+    "image_three_question_1": "../assets/image/27.png"
+  },
+  {
+    "id": "q30",
+    "type": "listening",
+    "question": "30. Why is the man unable to get a file?",
+    "options": [
+      "A) He forgot the password.",
+      "B) His internet connection is down.",
+      "C) He can’t access the drive.",
+      "D) He was not allowed to print."
+    ],
+    "audio": "../assets/audio/30.mp3",
+    "image_three_question_1": "../assets/image/30.png"
+  },
+  {
+    "id": "q31",
+    "type": "listening",
+    "image": "../assets/image/31.png",
+    "question": "31. Look at the graphic. Who uploaded the file the speakers are referring to?",
+    "options": [
+      "A) Donald Harris",
+      "B) Emily Akbar",
+      "C) Amber Wallace",
+      "D) Laura Mars"
+    ],
+    "audio": "../assets/audio/31.mp3",
+    "image_three_question_1": "../assets/image/30.png"
+  },
+  {
+    "id": "q32",
+    "type": "listening",
+    "question": "32. What does the man ask the woman to do?",
+    "options": [
+      "A) Print out a file.",
+      "B) Download a report.",
+      "C) Upload an article.",
+      "D) Email a meeting agenda."
+    ],
+    "audio": "../assets/audio/32.mp3",
+    "image_three_question_1": "../assets/image/30.png"
+  },
+  {
+    "id": "q33",
+    "type": "listening",
+    "question": "33. Where do the speakers work?",
+    "options": [
+      "A) At a multimedia school",
+      "B) At a telecommunication office",
+      "C) At an accounting firm",
+      "D) At a car dealer"
+    ],
+    "audio": "../assets/audio/33.mp3",
+    "image_three_question_1": "../assets/image/33.png"
+  },
+  {
+    "id": "q34",
+    "type": "listening",
+    "question": "34. Look at the graphic. According to the man, what event is Joe in charge of?",
+    "options": [
+      "A) Finance Staff Debriefing",
+      "B) Logistic Dept. Meeting",
+      "C) R&D Luncheon Meeting",
+      "D) IT Evaluation Meeting"
+    ],
+    "audio": "../assets/audio/34.mp3",
+    "image_three_question_1": "../assets/image/33.png"
+  },
+  {
+    "id": "q35",
+    "type": "listening",
+    "question": "35. What does the woman say she will do?",
+    "options": [
+      "A) Meet with their biggest clients.",
+      "B) Move a conference venue.",
+      "C) Discuss a meeting agenda.",
+      "D) Ask a coworker to switch places."
+    ],
+    "audio": "../assets/audio/35.mp3",
+    "image_three_question_1": "../assets/image/33.png"
+  },
+  {
+    "id": "d4",
+    "type": "direction",
+    "audio": "../assets/audio/direction4.mp3"
+  },
+  {
+    "id": "q36",
+    "type": "listening",
+    "question": "36. Who most likely are the listeners?",
+    "options": ["A) Teachers", "B) Divers", "C) Writers", "D) Housekeepers"],
+    "audio": "../assets/audio/36.mp3"
+  },
+  {
+    "id": "q37",
+    "type": "listening",
+    "question": "37. What does the speaker mean when he says, \" You're allowed to click a thumbs-up on others’ questions. \"?",
+    "options": [
+      "A) The audience can sum up the questions.",
+      "B) The audience will write a question.",
+      "C) The audience can show they like a question.",
+      "D) The audience is asked to question."
+    ],
+    "audio": "../assets/audio/37.mp3"
+  },
+  {
+    "id": "q38",
+    "type": "listening",
+    "question": "38. What will the audience receive after the webinar?",
+    "options": [
+      "A) Handouts",
+      "B) Grammar books",
+      "C) Emails",
+      "D) Videotapes"
+    ],
+    "audio": "../assets/audio/38.mp3"
+  },
+  {
+    "id": "q39",
+    "type": "listening",
+    "question": "39. What does the speaker say about the company?",
+    "options": [
+      "A) It will do streamlining soon.",
+      "B) It is building a new factory.",
+      "C) It saw an increase in production demands.",
+      "D) It just raised staff’s salaries."
+    ],
+    "audio": "../assets/audio/39.mp3"
+  },
+  {
+    "id": "q40",
+    "type": "listening",
+    "question": "40. According to the speaker, what decision has recently been made?",
+    "options": [
+      "A) Upgrading equipment",
+      "B) Donating old machinery",
+      "C) Producing more software",
+      "D) Installing security cameras"
+    ],
+    "audio": "../assets/audio/40.mp3"
+  },
+  {
+    "id": "q41",
+    "type": "listening",
+    "question": "41. What do the listeners probably do next?",
+    "options": [
+      "A) Answer questions.",
+      "B) Raise awareness.",
+      "C) Ask questions.",
+      "D) Accept suggestions."
+    ],
+    "audio": "../assets/audio/41.mp3"
+  },
+  {
+    "id": "q42",
+    "type": "listening",
+    "question": "42. What is the talk mostly about?",
+    "options": [
+      "A) A concert",
+      "B) Food tasting",
+      "C) A celebration",
+      "D) A bazaar"
+    ],
+    "audio": "../assets/audio/42.mp3"
+  },
+  {
+    "id": "q43",
+    "type": "listening",
+    "question": "43. According to the speaker, what can the listeners enjoy till evening?",
+    "options": [
+      "A) A music performance",
+      "B) Foreign foods",
+      "C) Free samples",
+      "D) A 25% discount"
+    ],
+    "audio": "../assets/audio/43.mp3"
+  },
+  {
+    "id": "q44",
+    "type": "listening",
+    "question": "44. Why does the speaker suggest that listeners mark the calendar?",
+    "options": [
+      "A) To celebrate the anniversary",
+      "B) To remember the date of the event",
+      "C) To go to the music performance",
+      "D) To commemorate the birthday"
+    ],
+    "audio": "../assets/audio/44.mp3"
+  },
+  {
+    "id": "q45",
+    "type": "listening",
+    "question": "45. What is the main topic of the meeting?",
+    "options": [
+      "A) A business competition",
+      "B) Service excellence",
+      "C) This year’s sales results",
+      "D) Apparel styles"
+    ],
+    "audio": "../assets/audio/45.mp3",
+    "image_three_question_1": "../assets/image/45.png"
+  },
+  {
+    "id": "q46",
+    "type": "listening",
+    "question": "46. Who most likely is the speaker?",
+    "options": [
+      "A) A happy customer",
+      "B) A lead surveyor",
+      "C) A successful diver",
+      "D) A business founder"
+    ],
+    "audio": "../assets/audio/46.mp3",
+    "image_three_question_1": "../assets/image/45.png"
+  },
+  {
+    "id": "q47",
+    "type": "listening",
+    "question": "47. Look at the graphic. What will the speaker most likely talk about next?",
+    "options": [
+      "A) Service improvement",
+      "B) Marketplace app",
+      "C) Price reviews",
+      "D) Packaging materials"
+    ],
+    "audio": "../assets/audio/47.mp3",
+    "image_three_question_1": "../assets/image/45.png"
+  },
+  {
+    "id": "q48",
+    "type": "listening",
+    "question": "48. Who is the talk intended for?",
+    "options": [
+      "A) New employees",
+      "B) Plantain farmers",
+      "C) City dwellers",
+      "D) Adult learners"
+    ],
+    "audio": "../assets/audio/48.mp3",
+    "image_three_question_1": "../assets/image/48.png"
+  },
+  {
+    "id": "q49",
+    "type": "listening",
+    "question": "49. Look at the graphic. Which building is closed to visitors?",
+    "options": [
+      "A) Building A",
+      "B) Building B",
+      "C) Building C",
+      "D) Building E"
+    ],
+    "audio": "../assets/audio/49.mp3",
+    "image_three_question_1": "../assets/image/48.png"
+  },
+  {
+    "id": "q50",
+    "type": "listening",
+    "question": "50. What program is the company participating in?",
+    "options": [
+      "A) Research on plantains",
+      "B) A class on home industries",
+      "C) An annual clean-up day",
+      "D) A program to produce chips"
+    ],
+    "audio": "../assets/audio/50.mp3",
+    "image_three_question_1": "../assets/image/48.png"
+  },
+  {
+    "id": "d5",
+    "type": "direction"
+  },
+  {
+    "id": "q51",
+    "type": "reading",
+    "question": "51. After studying abroad for a decade, Jones brothers have _______ to build a learning center for the poor in their hometown.",
+    "options": ["A) contacted", "B) spoiled", "C) produced", "D) decided"]
+  },
+  {
+    "id": "q52",
+    "type": "reading",
+    "question": "52. The Homeowner Association in Valor Haven is scheduled to hold neighborhood security check _______.",
+    "options": ["A) periodically", "B) periodical", "C) period", "D) periodic"]
+  },
+  {
+    "id": "q53",
+    "type": "reading",
+    "question": "53. The company management agreed to our proposal for the English for Sales digital training _______.",
+    "options": ["A) expansion", "B) production", "C) program", "D) loyalty"]
+  },
+  {
+    "id": "q54",
+    "type": "reading",
+    "question": "54. Carlson Family Medicine offers weight management for those _______ battle with obesity.",
+    "options": ["A) whom", "B) to", "C) who", "D) as"]
+  },
+  {
+    "id": "q55",
+    "type": "reading",
+    "question": "55. The downloaded billing statement forms are prepared for the participants _______ the tomorrow’s regional meeting.",
+    "options": ["A) on", "B) in", "C) into", "D) onto"]
+  },
+  {
+    "id": "q56",
+    "type": "reading",
+    "question": "56. To attract buyers, MAJ Cosmetics decides to limit ads and _______ interactive games.",
+    "options": ["A) dare", "B) attain", "C) mention", "D) increase"]
+  },
+  {
+    "id": "q57",
+    "type": "reading",
+    "question": "57. They will be assigned in remote subsidiaries so they can _______ learn local traditions.",
+    "options": ["A) vigorously", "B) hardly", "C) directly", "D) brightly"]
+  },
+  {
+    "id": "q58",
+    "type": "reading",
+    "question": "58. According to the company regulations, employees who submit their assignments _______ the deadlines will lose their annual bonuses.",
+    "options": ["A) because", "B) that", "C) after", "D) however"]
+  },
+  {
+    "id": "q59",
+    "type": "reading",
+    "question": "59. The CJDW TV station has been broadcasting live reports _______ the tropical storms or hurricane hitting cities in Florida.",
+    "options": ["A) deciding", "B) dragging", "C) listening", "D) concerning"]
+  },
+  {
+    "id": "q60",
+    "type": "reading",
+    "question": "60. Judging by the numbers of returned filled forms, tonight’s free webinar will be _______ full.",
+    "options": ["A) certainty", "B) certainly", "C) certainties", "D) certain"]
+  },
+  {
+    "id": "d6",
+    "type": "direction"
+  },
+  {
+    "id": "q61",
+    "type": "reading",
+    "image": "../assets/image/61.png",
+    "question": "61.",
+    "options": ["A) donation", "B) development", "C) lecture", "D) service"]
+  },
+  {
+    "id": "q62",
+    "type": "reading",
+    "image": "../assets/image/61.png",
+    "question": "62.",
+    "options": [
+      "A) will delight",
+      "B) have delighted",
+      "C) are delighting",
+      "D) delight"
+    ]
+  },
+  {
+    "id": "q63",
+    "type": "reading",
+    "image": "../assets/image/61.png",
+    "question": "63.",
+    "options": [
+      "A) Thank you very much for being our loyal patrons",
+      "B) Enjoy the free sample to your heart’s content",
+      "C) Reserve early as we are usually fully booked on weekends",
+      "D) Take a tour of our kitchen and see where the magic happens"
+    ]
+  },
+  {
+    "id": "q64",
+    "type": "reading",
+    "image": "../assets/image/61.png",
+    "question": "64.",
+    "options": [
+      "A) celebrate",
+      "B) celebrated",
+      "C) celebrating",
+      "D) celebration"
+    ]
+  },
+  {
+    "id": "q65",
+    "type": "reading",
+    "image": "../assets/image/65.png",
+    "question": "65.",
+    "options": [
+      "A) will include",
+      "B) includes",
+      "C) has included",
+      "D) could have included"
+    ]
+  },
+  {
+    "id": "q66",
+    "type": "reading",
+    "image": "../assets/image/65.png",
+    "question": "66.",
+    "options": ["A) remarkable", "B) daunting", "C) spacious", "D) relevant"]
+  },
+  {
+    "id": "q67",
+    "type": "reading",
+    "image": "../assets/image/65.png",
+    "question": "67.",
+    "options": [
+      "A) Traffic is often diverted to different routes during construction",
+      "B) Since the people like to walk, the walking trails will be built first",
+      "C) Although the people are excited, such project may be behind schedule",
+      "D) Unless the project is on time, many of the young may move to other areas"
+    ]
+  },
+  {
+    "id": "q68",
+    "type": "reading",
+    "image": "../assets/image/65.png",
+    "question": "68.",
+    "options": [
+      "A) schedule",
+      "B) instruction",
+      "C) authenticity",
+      "D) program"
+    ]
+  },
+  {
+    "id": "d7",
+    "type": "direction"
+  },
+  {
+    "id": "q69",
+    "type": "reading",
+    "image": "../assets/image/69.png",
+    "question": "69. Where is the notice most likely posted?",
+    "options": [
+      "A) In JMG Accounting Firm",
+      "B) In Oakwood College",
+      "C) In Room 108",
+      "D) In Rose Smith’s house"
+    ]
+  },
+  {
+    "id": "q70",
+    "type": "reading",
+    "image": "../assets/image/69.png",
+    "question": "70. Why are employees invited to do on Friday?",
+    "options": [
+      "A) Meet a new accountant.",
+      "B) Join a reward ceremony.",
+      "C) Plan an accounting class.",
+      "D) Attend a farewell party."
+    ]
+  },
+  {
+    "id": "q71",
+    "type": "reading",
+    "image": "../assets/image/71.png",
+    "question": "71. What change will be made to the library newsletter?",
+    "options": [
+      "A) It will cover environmental issues.",
+      "B) It will provide more information.",
+      "C) It will be distributed weekly.",
+      "D) It will be sent through email only."
+    ]
+  },
+  {
+    "id": "q72",
+    "type": "reading",
+    "image": "../assets/image/71.png",
+    "question": "72. According to the notice, why will the members have to visit the website?",
+    "options": [
+      "A) To suggest some changes",
+      "B) To read the eco-friendly news",
+      "C) To register their email addresses",
+      "D) To contact the library director"
+    ]
+  },
+  {
+    "id": "q73",
+    "type": "reading",
+    "image": "../assets/image/73.png",
+    "question": "73. What is suggested about the Green Café?",
+    "options": [
+      "A) It will soon have a new management.",
+      "B) Its customers are from neighboring towns as well.",
+      "C) Its outdoor seating area will be more spacious.",
+      "D) It will give exclusive discounts on weekends."
+    ]
+  },
+  {
+    "id": "q74",
+    "type": "reading",
+    "image": "../assets/image/73.png",
+    "question": "74. According to the article, what was difficult for Mr. Kunz?",
+    "options": [
+      "A) Expanding the café’s reach",
+      "B) Selecting a kids’ menu",
+      "C) Finding new customers",
+      "D) Deciding to sell the café"
+    ]
+  },
+  {
+    "id": "q75",
+    "type": "reading",
+    "image": "../assets/image/73.png",
+    "question": "75. In which of the positions marked [1]. [2], (3], and [4] does the following sentence best belong? \"The kitchen, the dining areas, as well as the outdoor seating space will be upgraded.\"",
+    "options": ["A) [1]", "B) [2]", "C) [3]", "D) [4]"]
+  },
+  {
+    "id": "q76",
+    "type": "reading",
+    "image": "../assets/image/73.png",
+    "question": "76. What will the café be the main venue for?",
+    "options": [
+      "A) A restaurant",
+      "B) A family-friendly menu",
+      "C) A food festival",
+      "D) A nearby area"
+    ]
+  },
+  {
+    "id": "q77",
+    "type": "reading",
+    "image": "../assets/image/77.png",
+    "question": "77. What duty is mentioned as part of the job?",
+    "options": [
+      "A) Contacting prospective customers",
+      "B) Working morning shifts",
+      "C) Giving coworkers supports",
+      "D) Receiving calls from clients"
+    ]
+  },
+  {
+    "id": "q78",
+    "type": "reading",
+    "image": "../assets/image/77.png",
+    "question": "78. What is required for a salaried position?",
+    "options": [
+      "A) Previous work experience",
+      "B) Training completion",
+      "C) A college degree",
+      "D) Employer references"
+    ]
+  },
+  {
+    "id": "q79",
+    "type": "reading",
+    "image": "../assets/image/77.png",
+    "question": "79. According to the advertisement, why should applicants visit the Brightway Telecom website?",
+    "options": [
+      "A) To learn more about the company",
+      "B) To apply for the customers service job",
+      "C) To inquire about the applying process",
+      "D) To find out about their application status"
+    ]
+  },
+  {
+    "id": "q80",
+    "type": "reading",
+    "image": "../assets/image/80.png",
+    "question": "80. Why most likely was the article written?",
+    "options": [
+      "A) To attract people to visit an art gallery more often",
+      "B) To promote small and medium local business",
+      "C) To celebrate the achievements of a local entrepreneur",
+      "D) To announce the reopening of an old art gallery"
+    ]
+  },
+  {
+    "id": "q81",
+    "type": "reading",
+    "image": "../assets/image/80.png",
+    "question": "81. What is NOT suggested about Mr. Shaw?",
+    "options": [
+      "A) He will soon be ending his career as a lecturer.",
+      "B) He has lived in Oakridge for twenty-five years.",
+      "C) He is very knowledgeable about art history.",
+      "D) He and his family love playing golf."
+    ]
+  },
+  {
+    "id": "q82",
+    "type": "reading",
+    "image": "../assets/image/80.png",
+    "question": "82. The word \"foresee\" in paragraph 2, line 5, is closest in meaning to ______.",
+    "options": ["A) dedicate to", "B) look for", "C) expect", "D) rethink"]
+  },
+  {
+    "id": "q83",
+    "type": "reading",
+    "image": "../assets/image/80.png",
+    "question": "83. What is stated about The Artisan’s Nook?",
+    "options": [
+      "A) It will maintain its current hours of operation.",
+      "B) Its collection will be the same as before.",
+      "C) It will be adding a room for family gathering.",
+      "D) Its owner will be more often in the gallery."
+    ]
+  },
+  {
+    "id": "q84",
+    "type": "reading",
+    "image": "../assets/image/84.png",
+    "question": "84. Who most likely is Mr. Brooks?",
+    "options": [
+      "A) A customer",
+      "B) Ms. Richards’ employee",
+      "C) A cutlery maker",
+      "D) Ms. Richards’ boss"
+    ]
+  },
+  {
+    "id": "q85",
+    "type": "reading",
+    "image": "../assets/image/84.png",
+    "question": "85. At 10:18 a.m., what does Mr. Brooks imply when he says, 'Will do'?",
+    "options": [
+      "A) He will buy more cutlery.",
+      "B) He will review the invoice.",
+      "C) He will pay the merchandise.",
+      "D) He will contact Ms. Richards."
+    ]
+  },
+  {
+    "id": "q86",
+    "type": "reading",
+    "image": "../assets/image/86.png",
+    "question": "86. Why did Ms. Kogoya write to Mr. Dubois?",
+    "options": [
+      "A) To offer him a teaching position",
+      "B) To reschedule a virtual meeting",
+      "C) To inform him about a language team",
+      "D) To sign a remote contract"
+    ]
+  },
+  {
+    "id": "q87",
+    "type": "reading",
+    "image": "../assets/image/86.png",
+    "question": "87. What information is Mr. Dubois asked to provide?",
+    "options": [
+      "A) His teaching schedule",
+      "B) His availability for onboarding",
+      "C) A list of training participants",
+      "D) A summary of his online classes"
+    ]
+  },
+  {
+    "id": "q88",
+    "type": "reading",
+    "image": "../assets/image/86.png",
+    "question": "88. What is indicated about the teaching team members?",
+    "options": [
+      "A) They live and work in remote areas.",
+      "B) They’ll get same amount of bonus.",
+      "C) They’ll teach the same language.",
+      "D) They all are from the same country."
+    ]
+  },
+  {
+    "id": "q89",
+    "type": "reading",
+    "image": "../assets/image/86.png",
+    "question": "89. Why will HR Team contact Mr. Dubois?",
+    "options": [
+      "A) To clarify a company policy",
+      "B) To notify more about the onboarding",
+      "C) To explain meeting procedures",
+      "D) To make travel arrangements"
+    ]
+  },
+  {
+    "id": "q90",
+    "type": "reading",
+    "image": "../assets/image/86.png",
+    "question": "90. What will Mr. Dubois most likely do on June 7 noon?",
+    "options": [
+      "A) Fill out documents for HR team",
+      "B) Teach a language class",
+      "C) Start his journey to Indonesia",
+      "D) Be present at a virtual meeting"
+    ]
+  },
+  {
+    "id": "q91",
+    "type": "reading",
+    "image": "../assets/image/91.png",
+    "question": "91. What industry is the focus of the conference?",
+    "options": ["A) Beverages", "B) Technology", "C) Chocolate", "D) Tourism"]
+  },
+  {
+    "id": "q92",
+    "type": "reading",
+    "image": "../assets/image/91.png",
+    "question": "92. According to the schedule, what are presenters expected to do?",
+    "options": [
+      "A) Use only the ICIC presentation equipment.",
+      "B) Book a discounted hotel room from Virna Suite.",
+      "C) Confirm on the registration that they are presenting.",
+      "D) Inform Mr. Siregar about the change of flight."
+    ]
+  },
+  {
+    "id": "q93",
+    "type": "reading",
+    "image": "../assets/image/91.png",
+    "question": "93. What has Ms. Durand been asked to do?",
+    "options": [
+      "A) Substitute for another presenter.",
+      "B) Submit a draft of her presentation.",
+      "C) Discuss her presentation with Mr. Siregar.",
+      "D) Cancel the accommodation for her colleague."
+    ]
+  },
+  {
+    "id": "q94",
+    "type": "reading",
+    "image": "../assets/image/91.png",
+    "question": "94. In the review, the word “engage” in paragraph 1, line 3, is closest in meaning to ______.",
+    "options": ["A) involve", "B) secure", "C) contract", "D) charter"]
+  },
+  {
+    "id": "q95",
+    "image": "../assets/image/91.png",
+    "type": "reading",
+    "question": "95. What is probably true about Mr. Manopo?",
+    "options": [
+      "A) He wrote a book about sustainable farming.",
+      "B) He was hoping to be invited again next year.",
+      "C) He surprised the participants with his topic.",
+      "D) He met some experts with same interest in the event."
+    ]
+  },
+  {
+    "id": "q96",
+    "type": "reading",
+    "image": "../assets/image/96.png",
+    "question": "96. In the article, what is indicated about the city of Jackville?",
+    "options": [
+      "A) It is implementing new regulations.",
+      "B) It is going to renovate the monument.",
+      "C) It will soon open a public consultation.",
+      "D) It plans to revitalize the old oak trees."
+    ]
+  },
+  {
+    "id": "q97",
+    "type": "reading",
+    "image": "../assets/image/96.png",
+    "question": "97. What is NOT implied about Ms. Rivera?",
+    "options": [
+      "A) She read the July 18 newspaper article.",
+      "B) She is a member of Jackville Historical Society.",
+      "C) She used to be Ms. Clark’s colleague.",
+      "D) She agrees with Mr. Greg King."
+    ]
+  },
+  {
+    "id": "q98",
+    "type": "reading",
+    "image": "../assets/image/96.png",
+    "question": "98. In the email, the word “advocacy” in paragraph 1, line 5, is closest in meaning to",
+    "options": ["A) lawyer", "B) backing", "C) bravery", "D) challenge"]
+  },
+  {
+    "id": "q99",
+    "type": "reading",
+    "image": "../assets/image/96.png",
+    "question": "99. Why does Mr. Lim send JHS members email?",
+    "options": [
+      "A) To ask them advice on preserving old trees",
+      "B) To congratulate them on their achievement",
+      "C) To give them support on historical events",
+      "D) To let them know about his appointment"
+    ]
+  },
+  {
+    "id": "q100",
+    "type": "reading",
+    "image": "../assets/image/96.png",
+    "question": "100. What is suggested about JHS members?",
+    "options": [
+      "A) They like taking care of oak trees.",
+      "B) Some of them live near the monument.",
+      "C) They hold a regular session on Mondays.",
+      "D) Some of them came to the Civic Hall."
+    ]
+  }
+]
